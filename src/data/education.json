@@ -1,0 +1,22 @@
+[
+	{   "id":1,
+		"title": "Master Degree Of Design",
+		"date": "JANUARY, 2007",
+		"desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit maxime laborum sequi, magni earum quo soluta sint velit numquam, ipsum illum! Nostrum possimus illo architecto praesentium ut aliquam dolorem."
+	},
+	{   "id":2,
+		"title": "Bachelor Of Arts",
+		"date": "JUNE, 2004",
+		"desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit maxime laborum sequi, magni earum quo soluta sint velit numquam."
+	},
+	{   "id":3,
+		"title": "Master Degree Of Design",
+		"date": "JANUARY, 2001",
+		"desc": "Odit maxime laborum sequi, magni earum quo soluta sint velit numquam, ipsum illum! Nostrum possimus illo architecto praesentium ut aliquam dolorem."
+	},
+	{   "id":4,
+		"title": "Associates degree of Programming",
+		"date": "SEPTEMBER, 1998",
+		"desc": "Odit maxime laborum sequi, magni earum quo soluta sint velit numquam, ipsum illum! Nostrum possimus illo architecto praesentium ut aliquam dolorem."
+	}
+]
